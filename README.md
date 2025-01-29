@@ -40,4 +40,5 @@
 
 ### Enhancements:
 - Develop an install step
+- Make the PIN interactive, so as not to expose it to the command line
 - Pull the create_password procedure out and create a python library
